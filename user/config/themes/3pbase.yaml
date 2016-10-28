@@ -1,0 +1,22 @@
+site_title:
+  enabled: true
+google_fonts_logo:
+  enabled: true
+fontawesome:
+  enabled: true
+google_prettify:
+  enabled: true
+dropdown:
+  enabled: true
+css_custom:
+  enabled: true
+mobilemenu_breakpoint: large
+mobilemenu_position: left
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '':
+          - user/themes/3pbase
+          - user/themes/bones-vanilla

@@ -1,0 +1,11 @@
+email: bardbarienne@gmail.com
+fullname: 'Becky Brown'
+title: admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$k4AwkmvXOavwbvmJS1HaP.gCss4vzsRAJbHvFNFwcm15.R5cXyPEW
