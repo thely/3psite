@@ -6,7 +6,7 @@ assets/*
 logs/*
 images/*
 user/data/*
-!user/themes/3psite
+!user/themes/3pbase
 
 # OS Generated
 .DS_Store*
