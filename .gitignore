@@ -5,7 +5,8 @@ cache/*
 assets/*
 logs/*
 images/*
-# user/data/*
+user/data/*
+!user/themes/3psite
 
 # OS Generated
 .DS_Store*
