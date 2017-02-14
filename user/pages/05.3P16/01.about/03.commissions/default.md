@@ -1,5 +1,5 @@
 ---
-title: 'Commissions and Recordings'
+title: 'Commissions & Recordings'
 visible: true
 fontawesome: use_global
 animate_css: use_global
@@ -9,7 +9,7 @@ google_prettify: use_global
 
 ####Commissions
 
-* 2016 Kirsten Volness, new work
+* 2016 Kirsten Volness, desangrimento
 * 2015 Matt McCabe, somewhere\*\*
 * 2015 Chris Chandler, Recast Fragments\*\*
 * 2015 Heather Stebbins, somewhere\*\*

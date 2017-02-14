@@ -1,4 +1,4 @@
-title: 'Third Practice 2016'
+title: 'Third Practice New Music Festival'
 author:
   name: 'Becky Brown'
   email: bardbarienne@gmail.com
@@ -6,7 +6,7 @@ taxonomies:
   - category
   - tag
 metadata:
-  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+  description: 'a celebration of new media and art'
 summary:
   enabled: true
   format: short

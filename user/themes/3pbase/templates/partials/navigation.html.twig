@@ -16,13 +16,14 @@
     {% endfor %}
 {% endmacro %}
 
-<nav id="tp-mainmenu">
-  {{ dump(config.system.home.alias) }}
-  {{ dump(page.route() == "/") }}
-  <ul class="{% if theme_config.dropdown.enabled %}tp-dropdown {% endif %}tp-menu"{% if theme_config.dropdown.enabled %} data-dropdown-menu{% endif %}>
+<nav id="tp-mainmenu sg-mainmenu">
+  {# {{ dump(config.system.home.alias) }}
+  {{ dump(page.route() == "/") }} #}
+  <ul class="{% if theme_config.dropdown.enabled %}tp-dropdown {% endif %}tp-menu menu"{% if theme_config.dropdown.enabled %} data-dropdown-menu{% endif %}>
     {% if theme_config.menufromhomepage.enabled %}
       {% for p in page.find("/").children.visible %}
         {% set current_page = (p.active or p.activeChild) ? 'active' : '' %}
+        {# {{ dump(p.parent) }} #}
         <li class="{{ current_page }}">
           <a href="{{ p.url }}">
             {% if p.header.icon %}<i class="fa fa-{{ p.header.icon }}"></i>{% endif %}

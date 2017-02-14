@@ -1,6 +1,10 @@
 ---
 title: Technical
 visible: true
+fontawesome: use_global
+animate_css: use_global
+wow_js: use_global
+google_prettify: use_global
 ---
 
 ####CAMP CONCERT HALL                                     

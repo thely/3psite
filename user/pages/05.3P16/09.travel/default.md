@@ -1,15 +1,19 @@
 ---
-title: 'Travel & Directions'
+title: Travel
 visible: true
+fontawesome: use_global
+animate_css: use_global
+wow_js: use_global
+google_prettify: use_global
 ---
 
 ####HOTEL INFO
 
 The festival hotel is:
 
-Embassy Suites Richmond
-2925 Emerywood Parkway, Richmond
-$129/night, reserve by October 19, 2016
+Embassy Suites Richmond  
+2925 Emerywood Parkway, Richmond  
+$129/night, reserve by October 19, 2016  
 
 Call the hotel directly at 804-672-8585 and mention "Third Practice Music Festival" for the festival rate.
 

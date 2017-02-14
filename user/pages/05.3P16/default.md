@@ -8,11 +8,12 @@ wow_js: use_global
 google_prettify: use_global
 ---
 
-2016 Third Practice Electroaooustic Music Festival 
-November 4-5, 2016 
-University of Richmond 
+2016 Third Practice Electroaooustic Music Festival  
+November 4-5, 2016  
+University of Richmond  
 
-eighth blackbird, ensemble–in–residence 
-Sam Kelder, viola
+eighth blackbird, ensemble–in–residence  
+Sam Kelder, viola  
+Wei-Han Wu, piano  
 
 Please see links below for more information. 
