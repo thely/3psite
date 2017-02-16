@@ -1,6 +1,7 @@
 ---
 title: Schedule
 visible: true
+theme: 3pbase
 ---
 
 ####FRIDAY, NOVEMBER 6, 2:30PM

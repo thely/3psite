@@ -39,6 +39,10 @@ header#header, section#body {
 	z-index: 3;
 }
 
+header#header {
+	z-index: 4;
+}
+
 .tp-header-title {
 	float: none;
 }
@@ -74,8 +78,23 @@ header#header {
 	text-align: right;*/
 }
 
+.is-dropdown-submenu {
+	left: 0;
+	top: 100%;
+	z-index: 500;
+}
+
+.is-submenu-item.is-dropdown-submenu-item[role="menuitem"] {
+	margin: 0;
+	padding: 2% 6%;
+}
+
 .menu > li > a {
 	padding-left: 0;
+}
+
+.sg-header .mobile-nav-toggle {
+	margin-top: 1rem;
 }
 
 .sg-default-layout {
@@ -192,5 +211,18 @@ h4 {
 	#body .row, #header .row {
 		margin-left: 34%;
 		
+	}
+}
+
+@media (max-width: 1023px) {
+	#sg-header-title.tp-header-title {
+		float: left;
+		width: 60%;
+	}
+}
+@media (min-width: 1024px) {
+	#sg-header-title.tp-header-title {
+		float: none;
+		width: 100%;
 	}
 }

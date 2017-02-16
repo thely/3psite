@@ -10,6 +10,7 @@ dropdown:
   enabled: true
 menufromhomepage:
   enabled: true
+poster_image_location: /3p16/bgimg
 mobilemenu_breakpoint: large
 mobilemenu_position: left
 streams:

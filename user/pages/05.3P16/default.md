@@ -2,6 +2,7 @@
 title: 3P16
 child_type: default
 visible: true
+theme: 3pbase
 fontawesome: use_global
 animate_css: use_global
 wow_js: use_global
